@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/udemy-junior-to-senior-robofriends/static/css/main.09a99b52.chunk.css",
-    "main.js": "/udemy-junior-to-senior-robofriends/static/js/main.63484638.chunk.js",
-    "main.js.map": "/udemy-junior-to-senior-robofriends/static/js/main.63484638.chunk.js.map",
-    "runtime-main.js": "/udemy-junior-to-senior-robofriends/static/js/runtime-main.03311f02.js",
-    "runtime-main.js.map": "/udemy-junior-to-senior-robofriends/static/js/runtime-main.03311f02.js.map",
+    "main.css": "/udemy-junior-to-senior-robofriends/static/css/main.614912f8.chunk.css",
+    "main.js": "/udemy-junior-to-senior-robofriends/static/js/main.ba4966e6.chunk.js",
+    "main.js.map": "/udemy-junior-to-senior-robofriends/static/js/main.ba4966e6.chunk.js.map",
+    "runtime-main.js": "/udemy-junior-to-senior-robofriends/static/js/runtime-main.304ddc7d.js",
+    "runtime-main.js.map": "/udemy-junior-to-senior-robofriends/static/js/runtime-main.304ddc7d.js.map",
     "static/css/2.fe359a49.chunk.css": "/udemy-junior-to-senior-robofriends/static/css/2.fe359a49.chunk.css",
-    "static/js/2.c6166201.chunk.js": "/udemy-junior-to-senior-robofriends/static/js/2.c6166201.chunk.js",
-    "static/js/2.c6166201.chunk.js.map": "/udemy-junior-to-senior-robofriends/static/js/2.c6166201.chunk.js.map",
-    "static/js/3.761678dd.chunk.js": "/udemy-junior-to-senior-robofriends/static/js/3.761678dd.chunk.js",
-    "static/js/3.761678dd.chunk.js.map": "/udemy-junior-to-senior-robofriends/static/js/3.761678dd.chunk.js.map",
+    "static/js/2.abdfe7a0.chunk.js": "/udemy-junior-to-senior-robofriends/static/js/2.abdfe7a0.chunk.js",
+    "static/js/2.abdfe7a0.chunk.js.map": "/udemy-junior-to-senior-robofriends/static/js/2.abdfe7a0.chunk.js.map",
+    "static/js/3.016972d9.chunk.js": "/udemy-junior-to-senior-robofriends/static/js/3.016972d9.chunk.js",
+    "static/js/3.016972d9.chunk.js.map": "/udemy-junior-to-senior-robofriends/static/js/3.016972d9.chunk.js.map",
     "index.html": "/udemy-junior-to-senior-robofriends/index.html",
     "static/css/2.fe359a49.chunk.css.map": "/udemy-junior-to-senior-robofriends/static/css/2.fe359a49.chunk.css.map",
-    "static/css/main.09a99b52.chunk.css.map": "/udemy-junior-to-senior-robofriends/static/css/main.09a99b52.chunk.css.map",
-    "static/js/2.c6166201.chunk.js.LICENSE.txt": "/udemy-junior-to-senior-robofriends/static/js/2.c6166201.chunk.js.LICENSE.txt",
+    "static/css/main.614912f8.chunk.css.map": "/udemy-junior-to-senior-robofriends/static/css/main.614912f8.chunk.css.map",
+    "static/js/2.abdfe7a0.chunk.js.LICENSE.txt": "/udemy-junior-to-senior-robofriends/static/js/2.abdfe7a0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/udemy-junior-to-senior-robofriends/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.03311f02.js",
+    "static/js/runtime-main.304ddc7d.js",
     "static/css/2.fe359a49.chunk.css",
-    "static/js/2.c6166201.chunk.js",
-    "static/css/main.09a99b52.chunk.css",
-    "static/js/main.63484638.chunk.js"
+    "static/js/2.abdfe7a0.chunk.js",
+    "static/css/main.614912f8.chunk.css",
+    "static/js/main.ba4966e6.chunk.js"
   ]
 }
