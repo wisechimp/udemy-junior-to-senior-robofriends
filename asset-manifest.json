@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/udemy-junior-to-senior-robofriends/static/css/main.614912f8.chunk.css",
+    "main.css": "/udemy-junior-to-senior-robofriends/static/css/main.7981c4c5.chunk.css",
     "main.js": "/udemy-junior-to-senior-robofriends/static/js/main.32473b4d.chunk.js",
     "main.js.map": "/udemy-junior-to-senior-robofriends/static/js/main.32473b4d.chunk.js.map",
     "runtime-main.js": "/udemy-junior-to-senior-robofriends/static/js/runtime-main.304ddc7d.js",
@@ -14,7 +14,7 @@
     "service-worker.js": "/udemy-junior-to-senior-robofriends/service-worker.js",
     "service-worker.js.map": "/udemy-junior-to-senior-robofriends/service-worker.js.map",
     "static/css/2.fe359a49.chunk.css.map": "/udemy-junior-to-senior-robofriends/static/css/2.fe359a49.chunk.css.map",
-    "static/css/main.614912f8.chunk.css.map": "/udemy-junior-to-senior-robofriends/static/css/main.614912f8.chunk.css.map",
+    "static/css/main.7981c4c5.chunk.css.map": "/udemy-junior-to-senior-robofriends/static/css/main.7981c4c5.chunk.css.map",
     "static/js/2.abdfe7a0.chunk.js.LICENSE.txt": "/udemy-junior-to-senior-robofriends/static/js/2.abdfe7a0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/udemy-junior-to-senior-robofriends/static/media/SEGA.47b4bfa9.woff"
   },
@@ -22,7 +22,7 @@
     "static/js/runtime-main.304ddc7d.js",
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.abdfe7a0.chunk.js",
-    "static/css/main.614912f8.chunk.css",
+    "static/css/main.7981c4c5.chunk.css",
     "static/js/main.32473b4d.chunk.js"
   ]
 }
