@@ -22,7 +22,6 @@ const initialStateRobots = {
   isPending: false,
   robots: [],
   error: ''
-
 }
 
 export const requestRobots = (state=initialStateRobots, action={}) => {
