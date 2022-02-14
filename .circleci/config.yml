@@ -12,10 +12,10 @@ jobs:
     steps:
       - checkout
       - run: echo "Double Trouble"
-  workflows:
-    version: 2.1
-    hello_secondary:
-      jobs:
-        - hello
-        - secondary
+workflows:
+  version: 2.1
+  hello_secondary:
+    jobs:
+      - hello
+      - secondary
 
